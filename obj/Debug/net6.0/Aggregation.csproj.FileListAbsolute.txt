@@ -1,0 +1,14 @@
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\bin\Debug\net6.0\Aggregation.exe
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\bin\Debug\net6.0\Aggregation.deps.json
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\bin\Debug\net6.0\Aggregation.runtimeconfig.json
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\bin\Debug\net6.0\Aggregation.dll
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\bin\Debug\net6.0\Aggregation.pdb
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.AssemblyInfoInputs.cache
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.AssemblyInfo.cs
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.dll
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\refint\Aggregation.dll
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.pdb
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\Aggregation.genruntimeconfig.cache
+C:\Users\varsh\OneDrive\Desktop\Aggregation\Aggregation\obj\Debug\net6.0\ref\Aggregation.dll
