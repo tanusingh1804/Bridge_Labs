@@ -15,7 +15,7 @@ namespace RepositoryLayer.Service
         private string databasePassword = "root";
         private string databasefirstName;
         private string databaselastName;
-        private string databaseEmail="abhinn000000@gmail.com";
+        private string databaseEmail="tanu000000@gmail.com";
         private string databasepassword;
 
         public List<RegisterDTO> registeredUsers;
