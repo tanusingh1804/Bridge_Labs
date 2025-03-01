@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Repository Layer\\Migrations\\20250301104446_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B730D3A-9775-4C11-8B73-2F770D8EFED5}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060AC26B-95A1-42F6-ABB7-ECCBD41F4EFC}|..\\Repository Layer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\repository layer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|c:\\users\\hp\\source\\repos\\helloapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707A30C4-463A-4F2F-B148-E59FB12C4AC7}|HelloApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06212532-0AEC-4358-A7E1-677A9BDA1C5C}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\source\\repos\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060AC26B-95A1-42F6-ABB7-ECCBD41F4EFC}|..\\Repository Layer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\repository layer\\context\\helloappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060AC26B-95A1-42F6-ABB7-ECCBD41F4EFC}|..\\Repository Layer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\repository layer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B730D3A-9775-4C11-8B73-2F770D8EFED5}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\businesslayer\\serevice\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B730D3A-9775-4C11-8B73-2F770D8EFED5}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\businesslayer\\interface\\iregisterhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060AC26B-95A1-42F6-ABB7-ECCBD41F4EFC}|..\\Repository Layer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\repository layer\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060AC26B-95A1-42F6-ABB7-ECCBD41F4EFC}|..\\Repository Layer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\repository layer\\interface\\iregisterhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06212532-0AEC-4358-A7E1-677A9BDA1C5C}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\source\\repos\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06212532-0AEC-4358-A7E1-677A9BDA1C5C}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\source\\repos\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250301104446_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Migrations\\20250301104446_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\Migrations\\20250301104446_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Migrations\\20250301104446_InitialMigration.cs",
+              "RelativeToolTip": "..\\Repository Layer\\Migrations\\20250301104446_InitialMigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:44:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:29:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloAppController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloAppController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeToolTip": "Controllers\\HelloAppController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:15:34.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:55:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T06:22:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\Repository Layer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T09:23:17.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:19:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T10:07:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloApp.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T08:36:46.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "..\\ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T08:43:34.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HelloAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Context\\HelloAppContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\Context\\HelloAppContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Context\\HelloAppContext.cs",
+              "RelativeToolTip": "..\\Repository Layer\\Context\\HelloAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:16:48.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\Repository Layer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:15:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\Serevice\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Serevice\\RegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\Serevice\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Serevice\\RegisterHelloBL.cs",
+              "ViewState": "AgIAAAMAAABgZmZmZmYkwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:36:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\Repository Layer\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:41:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:44:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRegisterHello.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Interface\\IRegisterHello.cs",
+              "RelativeDocumentMoniker": "..\\Repository Layer\\Interface\\IRegisterHello.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Repository Layer\\Interface\\IRegisterHello.cs",
+              "RelativeToolTip": "..\\Repository Layer\\Interface\\IRegisterHello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:18:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:23:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:44:49.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
