@@ -1,0 +1,7 @@
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.csproj.AssemblyReference.cache
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.AssemblyInfoInputs.cache
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.AssemblyInfo.cs
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.csproj.CoreCompileInputs.cache
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varsh\OneDrive\Desktop\userr\obj\Debug\net6.0\UserRegister.MvcApplicationPartsAssemblyInfo.cache

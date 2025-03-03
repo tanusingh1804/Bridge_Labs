@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+using System.Text.RegularExpressions;
+namespace ModelLayer.DTO
+{
+    public class LoginDTO
+    {
+        public string username { get; set; }
+
+        public string password { get; set; }
+
+
+        //public bool IsValidUsername()
+        //{
+        //    string pattern = "^[a-zA-Z0-9]{4,5}$"; // Username: 4-5 characters, only letters & numbers
+        //    return Regex.IsMatch(username, pattern);
+        //}
+
+        override
+        public string ToString()
+        {
+            return "username =" + username + ":" + "password = " + password;
+        }
+    }
+}
+

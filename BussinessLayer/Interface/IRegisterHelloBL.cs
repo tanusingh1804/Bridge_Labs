@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ModelLayer.DTO;
+
+namespace BusinessLayer.Interface
+{
+    public interface IRegisterHelloBL
+    {
+
+        public ResponseModel<string> RegisterUser(RegisterDTO registerDTO);
+        public ResponseModel<string> LoginUser(LoginDTO loginDTO);
+    }
+}
